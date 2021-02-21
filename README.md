@@ -58,7 +58,7 @@ In statistics, we focus on four areas. (Summarized from the videos above.)
 
 ### RMANOVA
 
-The RMANOVA is used to compare means for different conditions or time points. The RMANOVA can be used with two or more conditions or time points. RMANOVA has an additional assumption when compared to the assumptions of regular ANOVA. The sphericity assumption is that the variance in difference scores between two time points or conditions needs to be equal to the variance in difference scores between any other pairwise combination of time points or conditions.
+The RMANOVA is used to compare means for different conditions or time points for the same individual. The RMANOVA works for related data and can be used with two or more conditions or time points. RMANOVA has an additional assumption when compared to the assumptions of regular ANOVA. The sphericity assumption is that the variance in difference scores between two time points or conditions needs to be equal to the variance in difference scores between any other pairwise combination of time points or conditions.
 
 ### Jamovi part
 
