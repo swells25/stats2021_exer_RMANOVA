@@ -56,9 +56,9 @@ In statistics, we focus on four areas. (Summarized from the videos above.)
 3. outliers
 4. Statistical assumptions
 
-### Multiple Regression
+### RMANOVA
 
-Multiple regression is used to predict the value of a continuous variable from predictor variables. Not only does it assess the strength and direction of the relationships between the predictor variables and the outcome variable when controlling for the other variables in the model. Multiple linear regression belongs to a family of tests known as parametric tests and has similar distributional assumptions.
+The RMANOVA is used to compare means for different conditions or time points. The RMANOVA can be used with two or more conditions or time points.
 
 ### Jamovi part
 
